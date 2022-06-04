@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/ApiRest":{"type":null,"mount_options":["uid=1000","gid=1000","_netdev"],"guestpath":"/home/vagrant/ApiRest","hostpath":"C:/Windows/System32/ApiRestFull","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Windows/System32/ApiRestFull","disabled":false,"__vagrantfile":true}}}
